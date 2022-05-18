@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minh Doan</h1>
-<h3 align="center">A passionate frontend developer from Texas</h3>
+<h3 align="center">A passionate full-stack developer from Texas</h3>
 
 <p align="left"> <a href="https://twitter.com/doanaminh" target="blank"><img src="https://img.shields.io/twitter/follow/doanaminh?logo=twitter&style=for-the-badge" alt="doanaminh" /></a> </p>
 
