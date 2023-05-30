@@ -1,4 +1,4 @@
-<h1 align="center">Hey ✌️😃, I'm Minh Doan</h1>
+<h1 align="center">Hey ✌️😃, I'm Minh</h1>
 <h3 align="center">A curious full-stack developer from Texas</h3>
 
 - 🌱 I’m currently learning **SQL**
